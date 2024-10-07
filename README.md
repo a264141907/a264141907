@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a264141907
-- 👀 I’m interested in 3D Modeling and developing Database and Game related software
+- 👀 I’m interested in 3D Modeling and developing game related software
 - 🌱 I’m currently learning C++ & Python
 
 <!---
